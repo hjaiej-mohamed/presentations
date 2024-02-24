@@ -7,10 +7,10 @@ Flyway is a valuable tool for any database developer who wants to manage their d
 
 Here are some of the benefits of using Flyway:
 
-Simplifies database migrations: Flyway makes it easy to migrate your database schema from one version to another. You simply need to create a new migration script and Flyway will take care of the rest.
+* Simplifies database migrations: Flyway makes it easy to migrate your database schema from one version to another. You simply need to create a new migration script and Flyway will take care of the rest.
 Repeatable migrations: Flyway ensures that migrations are repeatable, even if they are run multiple times. This is important for ensuring that your database is always in a consistent state.
-Safe migrations: Flyway has a number of features that help to prevent errors during migrations. For example, Flyway will never execute a migration that would cause data loss.
-Easy to use: Flyway is easy to use and can be integrated into your existing development process. It is also well-documented and supported by a large community of users.
+* Safe migrations: Flyway has a number of features that help to prevent errors during migrations. For example, Flyway will never execute a migration that would cause data loss.
+* Easy to use: Flyway is easy to use and can be integrated into your existing development process. It is also well-documented and supported by a large community of users.
 If you are looking for a database migration tool that is simple, repeatable, safe, and easy to use, then Flyway is the perfect tool for you."
 ![image](https://github.com/hjaiej-mohamed/presentations/assets/140017367/326a7941-ad4f-420b-b610-5c9123b8c074)
 

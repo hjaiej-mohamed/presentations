@@ -1,6 +1,6 @@
 # 1. From Flayway presentation for EITA Consuling Client :
 
-### This what gemini says about the presentaion: [I created application with gemini API and Streamlit application that analyses pdfs and returns discription.]
+## This what gemini says about the presentaion: [I created application with gemini API and Streamlit application that analyses pdfs and returns discription.]
 
 Flyway is a database migration tool that helps you manage and version your database schema. It supports a variety of databases, including PostgreSQL, MySQL, Oracle, and SQL Server. Flyway is easy to use and can be integrated into your existing development process.
 
@@ -20,7 +20,7 @@ Repeatable migrations: Flyway ensures that migrations are repeatable, even if th
 ![image](https://github.com/hjaiej-mohamed/presentations/assets/140017367/326a7941-ad4f-420b-b610-5c9123b8c074)
 
 # 2.From Keycloak presentation for EITA Consulting Client:
-### This what gemini says about the presentaion: [I created application with gemini API and Streamlit application that analyses pdfs and returns discription.]
+## This what gemini says about the presentaion: [I created application with gemini API and Streamlit application that analyses pdfs and returns discription.]
 
 Keycloak is an open-source identity and access management (IAM) solution. It provides a centralized way to manage user identities, access control, and authentication. Keycloak can be used to secure applications and APIs, and it can also be integrated with existing identity providers such as Active Directory or LDAP.
 

@@ -1,4 +1,4 @@
-## This what gemini says about the presentaion: [I created application with gemini API and Streamlit application that analyses pdfs and returns discription.]
+## This what gemini says about the presentaion: [I created application with gemini API and Streamlit that analyses pdfs and returns discription.]
 Even the machines can understand what i am presenting! :)
 
 # 1. From Flayway presentation for EITA Consuling Client :

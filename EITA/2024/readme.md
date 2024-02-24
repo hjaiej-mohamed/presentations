@@ -16,5 +16,14 @@ Repeatable migrations: Flyway ensures that migrations are repeatable, even if th
 ![image](https://github.com/hjaiej-mohamed/presentations/assets/140017367/326a7941-ad4f-420b-b610-5c9123b8c074)
 
 # 2.From Keycloak presentation for EITA Consulting Client:
+This what gemini says about the presentaion:`
+Keycloak is an open-source identity and access management (IAM) solution. It provides a centralized way to manage user identities, access control, and authentication. Keycloak can be used to secure applications and APIs, and it can also be integrated with existing identity providers such as Active Directory or LDAP.
+
+This presentation provides an overview of Keycloak's features and benefits. It also discusses how Keycloak can be used to secure applications and APIs. The presentation is intended for IT professionals who are interested in learning more about Keycloak.
+
+The presentation is well-organized and easy to follow. The speaker provides a clear and concise overview of Keycloak's features and benefits. The speaker also provides several examples of how Keycloak can be used to secure applications and APIs. The presentation is visually appealing and uses several diagrams to illustrate Keycloak's features.
+
+Overall, this is a well-written and informative presentation that provides a valuable overview of Keycloak. The presentation is suitable for IT professionals who are interested in learning more about Keycloak.
+`
 ![image](https://github.com/hjaiej-mohamed/presentations/assets/140017367/276d5d18-6753-4bdd-b9b5-548b551eada8)
 
